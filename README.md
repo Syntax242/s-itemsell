@@ -35,7 +35,7 @@ Bring a realistic, dynamic, and fully customizable item selling experience to yo
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-target](https://github.com/qbcore-framework/qb-target)
 - [qb-menu](https://github.com/qbcore-framework/qb-menu)
-- [ox_inventory](https://github.com/overextended/ox_inventory)
+- [ox_inventory](https://github.com/overextended/ox_inventory)  (optional)
 
 ---
 
