@@ -51,3 +51,4 @@ Bring a realistic, dynamic, and fully customizable item selling experience to yo
 ## Credits
 
 - Developed by **Syntax**
+- Discord: **syntax_2024**
